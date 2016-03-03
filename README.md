@@ -23,9 +23,21 @@
 
 [ali express](http://www.aliexpress.com/item/300pcs-30-Values-3V-47V-1W-zener-Diode-Assorted-kit-Assortment-free-shipping/1257814041.html)
 
-##  Light resistors
+##  Resistors
 
-50 pieces
+
+### GL55 Series Photoresistor 
+
+| Type     | Max. V | Max. W | light resistance (KΩ) | dark resistance (MΩ) |
+|----------|--------|--------|-----------------------|----------------------|
+| GL5516   | 150    | 90     | 5 - 10                | 0.5                  |
+| GL5528   | 150    | 100    | 10 - 20               | 1                    |
+| GL5537-1 | 150    | 100    | 20 - 30               | 2                    |
+| GL5537-2 | 150    | 100    | 30 - 50               | 3                    |
+| GL5539   | 150    | 100    | 50 - 100              | 5                    |
+| GL5549   | 150    | 100    | 100 - 200             | 10                   |
+
+[data sheet](http://akizukidenshi.com/download/ds/senba/GL55%20Series%20Photoresistor.pdf)
 
 ## Transistors
 
